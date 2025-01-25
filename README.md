@@ -1,1 +1,3 @@
-Hi, I'm Cherith!
+Hi,this is my Git Repository!
+<br>
+Author - Cherith
